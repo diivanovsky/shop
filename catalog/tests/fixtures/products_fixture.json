@@ -1,0 +1,14 @@
+[{
+    "model": "catalog.product",
+    "pk": 5,
+    "fields": {
+        "name": "Meth",
+        "price": "20.00",
+        "articul": "456789123",
+        "description": "blue one",
+        "count_on_stock": 1000,
+        "discount": 1,
+        "category": 3,
+        "seller": 2
+    }
+}]
