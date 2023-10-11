@@ -1,0 +1,8 @@
+[{
+    "model": "catalog.category",
+    "pk": 3,
+    "fields": {
+        "name": "Drugs",
+        "description": "Oh yeah"
+    }
+}]

@@ -1,0 +1,9 @@
+[{
+    "model": "catalog.seller",
+    "pk": 2,
+    "fields": {
+        "name": "Neihbour",
+        "country": "Belarus",
+        "description": "your"
+    }
+}]
