@@ -19,6 +19,8 @@ celery = "^5.3.4"
 django-celery-beat = "^2.5.0"
 flower = "^2.0.1"
 cowsay = "^6.1"
+django-rest-swagger = "^2.2.0"
+drf-yasg = "^1.21.7"
 
 
 [build-system]
